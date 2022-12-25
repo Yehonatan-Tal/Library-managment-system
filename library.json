@@ -1,0 +1,50 @@
+{
+    "shelves": [
+        {
+            "is_shelf_full": false,
+            "books": [
+                {
+                    "author": "J. K. Rowling",
+                    "title": "Harry Potter and the Philosopher's Stone",
+                    "num_of_pages": 223
+                },
+                {
+                    "author": "Dan Brown",
+                    "title": "The Da Vinci Code",
+                    "num_of_pages": 489
+                }
+            ]
+        },
+        {
+            "is_shelf_full": false,
+            "books": [
+                {
+                    "author": "E. L. James",
+                    "title": "Fifty Shades of Grey",
+                    "num_of_pages": 514
+                },
+                {
+                    "author": "Dan Brown",
+                    "title": "Angels & Demons",
+                    "num_of_pages": 768
+                }
+            ]
+        },
+        {
+            "is_shelf_full": false,
+            "books": [
+                {
+                    "author": "John Green",
+                    "title": "The Fault in Our Stars",
+                    "num_of_pages": 313
+                },
+                {
+                    "author": "Stephenie Meyer",
+                    "title": "Twilight",
+                    "num_of_pages": 498
+                }
+            ]
+        }
+    ],
+    "readers": []
+}
